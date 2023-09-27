@@ -1,0 +1,21 @@
+.open battery1
+
+
+CREATE TABLE load
+(
+al VARCHAR(5),
+pl VARCHAR(5),
+ml VARCHAR(5),
+rpv VARCHAR(5)
+);
+
+CREATE TABLE energy
+(
+aec VARCHAR(6),
+ae VARCHAR(6),
+heu VARCHAR(6),
+hei VARCHAR(6),
+ppd VARCHAR(6),
+ppi VARCHAR(6)
+);
+
